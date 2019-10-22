@@ -1,6 +1,6 @@
 - How to INSTALL (Ubuntu 18.04 recommended for MAIN)
 
-As root: apt-get update ; apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y ; wget https://xtream-ui.com/install/install.py ; sudo python install.py
+As root: apt-get update ; apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y ; wget https://github.com/xtreamui-all/Xtream-all/raw/master/install.py ; sudo python install.py
 If you want a whole NEW installation, choose MAIN and then ADMIN.
 If you want ONLY the admin part, select ADMIN only.
 
